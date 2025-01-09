@@ -5,11 +5,15 @@
 出身都道府県、所属事務所によって、お笑い芸人の人数・芸歴等にどのような違いが見られるか？
 
 ## 注
-はじめは(1)ネタ台本のテキスト分析をする予定だった（project.ipynb, project2.ipynb, data）が、
+はじめは
+
+(1)ネタ台本のテキスト分析 をする予定だった（project.ipynb, project2.ipynb, data）が、
+
 (2)定量分析（project_additional.ipynb, data_additional, figures）に方針転換
 
 ## Directory Structure
 
+```
 .
 ├── data                             # (1)のスクレイピングデータ
 ├── data_additional                  # (2)のスクレイピングデータ
@@ -20,6 +24,7 @@
 ├── project.ipynb                    # (1)のSource file
 ├── project2.ipynb                   # (1)のSource file
 └── README.md
+```
 
 ## データの概要、取得と前処理の方法
 
